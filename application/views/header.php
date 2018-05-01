@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="<?php echo base_url('/assets/img/logo1.png'); ?>">
+    <link rel="shortcut icon" href="<?php echo base_url('/assets/img/logo.jpg'); ?>">
 
-    <title>Unidad Educativa Fiscal Patria</title>
+    <title>Sistema de Seguimiento Curricular</title>
 
     <!-- Bootstrap CSS -->    
     <link href="<?php echo base_url('/assets/css/bootstrap.min.css'); ?>" rel="stylesheet">
@@ -84,7 +84,7 @@
             </div>
 
             <!--logo start-->
-            <a href="<?php echo site_url(); ?>" class="logo">UE PATRIA <!-- <span class="lite">Admin</span> --> </a>
+            <a href="<?php echo site_url(); ?>" class="logo">Sistema de Seguimiento Curricular <!-- <span class="lite">Admin</span> --> </a>
             <!--logo end-->
 
             <div class="nav search-row" id="top_menu">

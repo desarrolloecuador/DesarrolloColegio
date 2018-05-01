@@ -58,7 +58,7 @@
                     </p>                          
                </div>
                <div class="col-md-9">
-                    <legend style="color:#007AFF"><b>Gestión de Actividades Académicas</b></legend>                     
+                    <legend style="color:#007AFF"><b>Sistema de Seguimiento Curricular</b></legend>                     
                </div>
                
            </div>    

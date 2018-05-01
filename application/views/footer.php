@@ -7,7 +7,7 @@
                     Licensing information: https://bootstrapmade.com/license/
                     Purchase the pro version form: https://bootstrapmade.com/buy/?theme=NiceAdmin
                 -->
-                <a href="#" style="cursor:default;">Sistema de Gestión Académica</a> &copy;  UE "PATRIA" 2017
+                <a href="#" style="cursor:default;">Sistema de Seguimiento Curricular</a> &copy;   2018
             </div>
         </div>
       </section>
